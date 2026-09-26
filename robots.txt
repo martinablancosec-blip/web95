@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /templates/data/
+
+Sitemap: https://web95.vercel.app/sitemap.xml
