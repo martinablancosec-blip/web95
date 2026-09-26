@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://insm.vercel.app/sitemap.xml
